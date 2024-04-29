@@ -4,3 +4,5 @@ The main Purpose of the Application is to provide users with a better experience
 The app should also notify users when their virtual pet requires attention, such as when it is hungry or in need of cleaaning. Customization: Users should be able to customize their virtual pets appearance to add a personal touch to the experience.
 
 Implimantations: The app will feature a welcoming page which will invite users to start caring for their pet. Github and Github actions utilizations: Version Control: Github will be used for version control, allowing developers to track changes to track changes to the codebase and collaborate effectively. IN CONCLUSION: The Tamagotchi app aims to provide users with a fun and nostalgic experience while also incorporating modern design principles and features. By utilizing Github and Github actions, developers can collaborate effectively, track progress, and ensure the quality and reliability of the app. With its interface and engaging gameplay, the Tamagotchi app is sure to delight users of all ages.
+
+https://youtu.be/YNAE5LQ8cvk?feature=shared
